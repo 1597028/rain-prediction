@@ -4,7 +4,7 @@
 
 Predir si plourà el dia següent aplicant diferents models on la variable objectiu serà 'RainTomorrow'.
 
-<img src="../weather.gif" width="650"><br/>
+<img src="https://wallpaperaccess.com/full/688287.jpg" width="650"><br/>
 </center>
 
 ### Contingut
